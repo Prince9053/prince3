@@ -1,0 +1,1 @@
+## this is a readme  file and u need to uderstand the code trick  which we are using all   sql injection here 
